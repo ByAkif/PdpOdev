@@ -1,7 +1,7 @@
 # Programlama Dillerinin Prensipleri - Proje 1
 
 ## Geliştirici:
-Mehmet Akif Balcı - B211210075/1B
+Mehmet Akif Balcı
 
 ## Proje Açıklaması:
 Bu proje, GitHub üzerinden Java kod depolarını analiz etmek amacıyla geliştirilmiştir. Proje kapsamında, Java dosyalarının bulunması, işlenmesi ve analiz edilmesi süreçleri gerçekleştirilmiştir.
